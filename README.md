@@ -1,4 +1,4 @@
-### Olá, me chamo Lethycia Maia 👋
+# Olá, me chamo Lethycia Maia 👋
 
 - 📚 Sou estudante de Analise e Desenvolvimento de Sistemas
 - 🎲 Me interesso pela area de Banco de Dados
