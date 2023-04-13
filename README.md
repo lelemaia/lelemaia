@@ -5,8 +5,8 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lelemaia&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" alt="lelemaia github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelemaia&layout=compact&hide_border=true&title_color=8A2BE2&text_color=FFFFFF&bg_color=0d1117" />
-</div>
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelemaia&layout=compact&title_color=8A2BE2&text_color=FFFFFF&bg_color=0d1117&hide_border=true" />
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lelemaia&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
