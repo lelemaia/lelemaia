@@ -8,8 +8,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelemaia&layout=compact&title_color=8A2BE2&text_color=FFFFFF&bg_color=0d1117&hide_border=true" />
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lelemaia&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <div align="center">
   <a href = "mailto:lethyciamaiacontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
